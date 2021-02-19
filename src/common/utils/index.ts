@@ -19,6 +19,8 @@ export * from "./downloadFile";
 export * from "./escapeRegExp";
 export * from "./tar";
 export * from "./type-narrowing";
+export * from "./as-tuple";
+
 import * as iter from "./iter";
 
 export { iter };
