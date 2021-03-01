@@ -19,6 +19,8 @@ export * from "./downloadFile";
 export * from "./escapeRegExp";
 export * from "./tar";
 export * from "./type-narrowing";
+export * from "./reject-promise";
+
 import * as iter from "./iter";
 
 export { iter };
