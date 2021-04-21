@@ -20,6 +20,7 @@ export * from "./escapeRegExp";
 export * from "./tar";
 export * from "./type-narrowing";
 export * from "./toggle-set";
+export * from "./extended-map";
 
 import * as iter from "./iter";
 
